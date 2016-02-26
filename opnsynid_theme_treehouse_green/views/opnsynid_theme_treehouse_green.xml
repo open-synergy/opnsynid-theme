@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+  <data>
+
+        <template id="opnsynid_theme_treehouse_green" name="OpenSynergy Indonesia Treehouse Green Theme" inherit_id="website.theme">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/opnsynid_theme_treehouse_green/static/src/css/opnsynid_theme_treehouse_green.css"/>
+            </xpath>
+        </template>
+
+  </data>
+</openerp>
